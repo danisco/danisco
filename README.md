@@ -1,3 +1,5 @@
+All code in this repo or any in repo in this git is propery of Memphis Digital Marketing LLC
+
 <p>So sei que nada sei</>
 
 <!---
